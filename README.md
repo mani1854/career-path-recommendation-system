@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Career Path Recommendation System
 
 This project is a Career Path Recommendation System built with a React frontend and a Django backend. The system is implemented in four main steps:
